@@ -1,6 +1,6 @@
 {
   "dealership": "Vaughan Chrysler",
-  "generated_at": "2026-10-04T15:31:57",
+  "generated_at": "2026-10-04T15:57:48",
   "vehicle_count": 24,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -12,7 +12,7 @@
       "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/253c022082df.html",
       "source_url": "https://www.vaughanchrysler.com/en/used-inventory/chrysler/grand-caravan/2026-chrysler-grand-caravan-id38507241",
       "dealer_url": "https://www.vaughanchrysler.com/en/used-inventory/chrysler/grand-caravan/2026-chrysler-grand-caravan-id38507241?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T15:21:46",
+      "last_verified": "2026-10-04T15:54:38",
       "odometer_km": 9312,
       "condition": "used"
     },
@@ -23,7 +23,7 @@
       "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/90742ac88c3e.html",
       "source_url": "https://www.vaughanchrysler.com/en/used-inventory/dodge/durango/2021-dodge-durango-id39102448",
       "dealer_url": "https://www.vaughanchrysler.com/en/used-inventory/dodge/durango/2021-dodge-durango-id39102448?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T15:22:02",
+      "last_verified": "2026-10-04T15:54:53",
       "odometer_km": 38800,
       "condition": "used"
     },
@@ -34,7 +34,7 @@
       "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/8f75cbf20482.html",
       "source_url": "https://www.vaughanchrysler.com/en/used-inventory/dodge/durango/2023-dodge-durango-id38874835",
       "dealer_url": "https://www.vaughanchrysler.com/en/used-inventory/dodge/durango/2023-dodge-durango-id38874835?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T15:22:17",
+      "last_verified": "2026-10-04T15:55:10",
       "odometer_km": 34452,
       "condition": "used"
     },
@@ -45,7 +45,7 @@
       "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/348aad8afb73.html",
       "source_url": "https://www.vaughanchrysler.com/en/used-inventory/dodge/grand-caravan/2018-dodge-grand-caravan-id39222569",
       "dealer_url": "https://www.vaughanchrysler.com/en/used-inventory/dodge/grand-caravan/2018-dodge-grand-caravan-id39222569?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T15:22:32",
+      "last_verified": "2026-10-04T15:55:25",
       "odometer_km": 103513,
       "condition": "used"
     },
@@ -56,7 +56,7 @@
       "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/b5f1425623e8.html",
       "source_url": "https://www.vaughanchrysler.com/en/used-inventory/jeep/cherokee/2026-jeep-cherokee-id38192436",
       "dealer_url": "https://www.vaughanchrysler.com/en/used-inventory/jeep/cherokee/2026-jeep-cherokee-id38192436?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T15:22:48",
+      "last_verified": "2026-10-04T15:55:41",
       "odometer_km": 4758,
       "condition": "used"
     },
@@ -67,7 +67,7 @@
       "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/5747117a14cf.html",
       "source_url": "https://www.vaughanchrysler.com/en/used-inventory/jeep/compass/2019-jeep-compass-id39297687",
       "dealer_url": "https://www.vaughanchrysler.com/en/used-inventory/jeep/compass/2019-jeep-compass-id39297687?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T15:23:04",
+      "last_verified": "2026-10-04T15:55:55",
       "odometer_km": 48760,
       "condition": "used"
     },
@@ -78,7 +78,7 @@
       "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/af03e6d55f1e.html",
       "source_url": "https://www.vaughanchrysler.com/en/used-inventory/jeep/grand-cherokee-l/2021-jeep-grand-cherokee-l-id38874836",
       "dealer_url": "https://www.vaughanchrysler.com/en/used-inventory/jeep/grand-cherokee-l/2021-jeep-grand-cherokee-l-id38874836?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T15:23:21",
+      "last_verified": "2026-10-04T15:56:09",
       "odometer_km": 113590,
       "condition": "used"
     },
@@ -89,7 +89,7 @@
       "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/05410cc06aec.html",
       "source_url": "https://www.vaughanchrysler.com/en/used-inventory/jeep/grand-cherokee/2022-jeep-grand-cherokee-id38887683",
       "dealer_url": "https://www.vaughanchrysler.com/en/used-inventory/jeep/grand-cherokee/2022-jeep-grand-cherokee-id38887683?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T15:23:38",
+      "last_verified": "2026-10-04T15:56:27",
       "odometer_km": 95262,
       "condition": "used"
     },
@@ -100,7 +100,7 @@
       "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/d84712713334.html",
       "source_url": "https://www.vaughanchrysler.com/en/used-inventory/jeep/grand-cherokee/2022-jeep-grand-cherokee-id38908733",
       "dealer_url": "https://www.vaughanchrysler.com/en/used-inventory/jeep/grand-cherokee/2022-jeep-grand-cherokee-id38908733?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T15:23:54",
+      "last_verified": "2026-10-04T15:56:45",
       "odometer_km": 82644,
       "condition": "used"
     },
@@ -111,7 +111,7 @@
       "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/12608b2e8077.html",
       "source_url": "https://www.vaughanchrysler.com/en/used-inventory/jeep/wrangler-unlimited/2021-jeep-wrangler-unlimited-id39254805",
       "dealer_url": "https://www.vaughanchrysler.com/en/used-inventory/jeep/wrangler-unlimited/2021-jeep-wrangler-unlimited-id39254805?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T15:24:08",
+      "last_verified": "2026-10-04T15:57:00",
       "odometer_km": 40188,
       "condition": "used"
     },
@@ -122,7 +122,7 @@
       "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/62fb1483c9fd.html",
       "source_url": "https://www.vaughanchrysler.com/en/used-inventory/jeep/wrangler/2014-jeep-wrangler-id39302924",
       "dealer_url": "https://www.vaughanchrysler.com/en/used-inventory/jeep/wrangler/2014-jeep-wrangler-id39302924?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T15:24:25",
+      "last_verified": "2026-10-04T15:57:19",
       "price": 16888.0,
       "price_currency": "CAD",
       "odometer_km": 122866,
@@ -135,7 +135,7 @@
       "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/62b5c371f02b.html",
       "source_url": "https://www.vaughanchrysler.com/en/used-inventory/jeep/wrangler/2020-jeep-wrangler-id39254809",
       "dealer_url": "https://www.vaughanchrysler.com/en/used-inventory/jeep/wrangler/2020-jeep-wrangler-id39254809?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T15:24:41",
+      "last_verified": "2026-10-04T15:57:37",
       "odometer_km": 120250,
       "condition": "used"
     },
