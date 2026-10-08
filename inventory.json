@@ -1,7 +1,7 @@
 {
   "dealership": "Vaughan Chrysler",
-  "generated_at": "2026-10-07T15:52:33",
-  "vehicle_count": 271,
+  "generated_at": "2026-10-07T19:44:01",
+  "vehicle_count": 270,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -12,8 +12,8 @@
       "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/25922e0c142e.html",
       "source_url": "https://www.vaughanchrysler.com/en/used-inventory/cadillac/srx/2011-cadillac-srx-id39184329",
       "dealer_url": "https://www.vaughanchrysler.com/en/used-inventory/cadillac/srx/2011-cadillac-srx-id39184329?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T16:06:47",
-      "price": 8854.0,
+      "last_verified": "2026-10-07T19:40:03",
+      "price": 8388.0,
       "price_currency": "CAD",
       "odometer_km": 113223,
       "condition": "used"
@@ -25,7 +25,7 @@
       "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/acbd6e787f19.html",
       "source_url": "https://www.vaughanchrysler.com/en/used-inventory/chevrolet/silverado-1500/2021-chevrolet-silverado-1500-id38999519",
       "dealer_url": "https://www.vaughanchrysler.com/en/used-inventory/chevrolet/silverado-1500/2021-chevrolet-silverado-1500-id38999519?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T16:07:03",
+      "last_verified": "2026-10-07T19:40:18",
       "odometer_km": 87255,
       "condition": "used"
     },
@@ -38,17 +38,6 @@
       "dealer_url": "https://www.vaughanchrysler.com/en/used-inventory/chrysler/grand-caravan/2026-chrysler-grand-caravan-id38507241?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T16:13:22",
       "odometer_km": 9312,
-      "condition": "used"
-    },
-    {
-      "name": "Durango R/T AWD2021 Dodge",
-      "vin": "1C4SDJCT6MC875256",
-      "stock": "M5113",
-      "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/90742ac88c3e.html",
-      "source_url": "https://www.vaughanchrysler.com/en/used-inventory/dodge/durango/2021-dodge-durango-id39102448",
-      "dealer_url": "https://www.vaughanchrysler.com/en/used-inventory/dodge/durango/2021-dodge-durango-id39102448?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T16:13:38",
-      "odometer_km": 38800,
       "condition": "used"
     },
     {
@@ -69,7 +58,7 @@
       "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/664757f1716b.html",
       "source_url": "https://www.vaughanchrysler.com/en/used-inventory/dodge/grand-caravan/2016-dodge-grand-caravan-id39184330",
       "dealer_url": "https://www.vaughanchrysler.com/en/used-inventory/dodge/grand-caravan/2016-dodge-grand-caravan-id39184330?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T16:07:20",
+      "last_verified": "2026-10-07T19:40:34",
       "odometer_km": 154000,
       "condition": "used"
     },
@@ -85,14 +74,25 @@
       "condition": "used"
     },
     {
+      "name": "F150 4x4 - Supercrew XLT - 145 WB2022 Ford",
+      "vin": "1FTEW1EP2NFB88315",
+      "stock": "P5171",
+      "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/5c32409f50d3.html",
+      "source_url": "https://www.vaughanchrysler.com/en/used-inventory/ford/f150/2022-ford-f150-id39314735",
+      "dealer_url": "https://www.vaughanchrysler.com/en/used-inventory/ford/f150/2022-ford-f150-id39314735?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T19:39:32",
+      "odometer_km": 91166,
+      "condition": "used"
+    },
+    {
       "name": "Ranger Lariat2020 Ford",
       "vin": "1FTER4FH2LLA89296",
       "stock": "P5164",
       "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/0d9a5460554a.html",
       "source_url": "https://www.vaughanchrysler.com/en/used-inventory/ford/ranger/2020-ford-ranger-id39124597",
       "dealer_url": "https://www.vaughanchrysler.com/en/used-inventory/ford/ranger/2020-ford-ranger-id39124597?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T16:07:35",
-      "odometer_km": 91951,
+      "last_verified": "2026-10-07T19:40:51",
+      "odometer_km": 92019,
       "condition": "used"
     },
     {
@@ -102,7 +102,7 @@
       "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/44b0d3764e3c.html",
       "source_url": "https://www.vaughanchrysler.com/en/used-inventory/honda/cr-v/2019-honda-cr-v-id39282259",
       "dealer_url": "https://www.vaughanchrysler.com/en/used-inventory/honda/cr-v/2019-honda-cr-v-id39282259?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T16:07:50",
+      "last_verified": "2026-10-07T19:41:06",
       "odometer_km": 127925,
       "condition": "used"
     },
@@ -113,7 +113,7 @@
       "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/c803f6983bb5.html",
       "source_url": "https://www.vaughanchrysler.com/en/used-inventory/infiniti/q50/2021-infiniti-q50-id39228853",
       "dealer_url": "https://www.vaughanchrysler.com/en/used-inventory/infiniti/q50/2021-infiniti-q50-id39228853?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T16:08:07",
+      "last_verified": "2026-10-07T19:41:24",
       "odometer_km": 75605,
       "condition": "used"
     },
@@ -124,7 +124,7 @@
       "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/c5d022bceb8f.html",
       "source_url": "https://www.vaughanchrysler.com/en/used-inventory/infiniti/qx60/2023-infiniti-qx60-id38900795",
       "dealer_url": "https://www.vaughanchrysler.com/en/used-inventory/infiniti/qx60/2023-infiniti-qx60-id38900795?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T16:08:23",
+      "last_verified": "2026-10-07T19:41:41",
       "odometer_km": 96524,
       "condition": "used"
     },
@@ -225,7 +225,7 @@
       "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/272ee36f92b1.html",
       "source_url": "https://www.vaughanchrysler.com/en/used-inventory/lexus/rx/2023-lexus-rx-id39140339",
       "dealer_url": "https://www.vaughanchrysler.com/en/used-inventory/lexus/rx/2023-lexus-rx-id39140339?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T16:08:40",
+      "last_verified": "2026-10-07T19:41:57",
       "odometer_km": 40620,
       "condition": "used"
     },
@@ -236,19 +236,8 @@
       "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/314fda5e6571.html",
       "source_url": "https://www.vaughanchrysler.com/en/used-inventory/mazda/cx-5/2024-mazda-cx-5-id39254812",
       "dealer_url": "https://www.vaughanchrysler.com/en/used-inventory/mazda/cx-5/2024-mazda-cx-5-id39254812?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T16:08:54",
+      "last_verified": "2026-10-07T19:42:15",
       "odometer_km": 81332,
-      "condition": "used"
-    },
-    {
-      "name": "GLB35 AMG 4MATIC SUV2022 Mercedes-Benz",
-      "vin": "W1N4M5BB0NW202674",
-      "stock": "P5161",
-      "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/d1fa9f7325ab.html",
-      "source_url": "https://www.vaughanchrysler.com/en/used-inventory/mercedes-benz/glb35-amg/2022-mercedes-benz-glb35-amg-id39290175",
-      "dealer_url": "https://www.vaughanchrysler.com/en/used-inventory/mercedes-benz/glb35-amg/2022-mercedes-benz-glb35-amg-id39290175?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T16:09:09",
-      "odometer_km": 84799,
       "condition": "used"
     },
     {
@@ -258,7 +247,7 @@
       "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/b0150a1b6a39.html",
       "source_url": "https://www.vaughanchrysler.com/en/used-inventory/mercedes-benz/gle350/2023-mercedes-benz-gle350-id39061586",
       "dealer_url": "https://www.vaughanchrysler.com/en/used-inventory/mercedes-benz/gle350/2023-mercedes-benz-gle350-id39061586?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T16:09:25",
+      "last_verified": "2026-10-07T19:42:32",
       "odometer_km": 77000,
       "condition": "used"
     },
@@ -269,7 +258,7 @@
       "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/236431edb174.html",
       "source_url": "https://www.vaughanchrysler.com/en/used-inventory/mercedes-benz/gls450/2019-mercedes-benz-gls450-id38747595",
       "dealer_url": "https://www.vaughanchrysler.com/en/used-inventory/mercedes-benz/gls450/2019-mercedes-benz-gls450-id38747595?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T16:09:41",
+      "last_verified": "2026-10-07T19:42:49",
       "odometer_km": 142195,
       "condition": "used"
     },
@@ -280,7 +269,7 @@
       "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/59d27336d159.html",
       "source_url": "https://www.vaughanchrysler.com/en/used-inventory/nissan/qashqai/2019-nissan-qashqai-id39140341",
       "dealer_url": "https://www.vaughanchrysler.com/en/used-inventory/nissan/qashqai/2019-nissan-qashqai-id39140341?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T16:09:57",
+      "last_verified": "2026-10-07T19:43:04",
       "odometer_km": 82346,
       "condition": "used"
     },
@@ -291,7 +280,7 @@
       "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/7adcf6148ee7.html",
       "source_url": "https://www.vaughanchrysler.com/en/used-inventory/ram/1500/2019-ram-1500-id39171179",
       "dealer_url": "https://www.vaughanchrysler.com/en/used-inventory/ram/1500/2019-ram-1500-id39171179?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T16:10:14",
+      "last_verified": "2026-10-07T19:43:19",
       "odometer_km": 141757,
       "condition": "used"
     },
@@ -302,7 +291,7 @@
       "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/f67af94e1a14.html",
       "source_url": "https://www.vaughanchrysler.com/en/used-inventory/ram/1500/2020-ram-1500-id38959635",
       "dealer_url": "https://www.vaughanchrysler.com/en/used-inventory/ram/1500/2020-ram-1500-id38959635?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T16:10:29",
+      "last_verified": "2026-10-07T19:43:36",
       "odometer_km": 129738,
       "condition": "used"
     },
@@ -313,7 +302,7 @@
       "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/e7d01474e9d2.html",
       "source_url": "https://www.vaughanchrysler.com/en/used-inventory/ram/1500/2022-ram-1500-id38691640",
       "dealer_url": "https://www.vaughanchrysler.com/en/used-inventory/ram/1500/2022-ram-1500-id38691640?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T16:10:45",
+      "last_verified": "2026-10-07T19:43:51",
       "odometer_km": 134076,
       "condition": "used"
     },
@@ -363,6 +352,17 @@
       "condition": "used"
     },
     {
+      "name": "2500 Power Wagon2020 Ram",
+      "vin": "3C6TR5EJ6LG227802",
+      "stock": "P5170",
+      "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/374ba6c7fd31.html",
+      "source_url": "https://www.vaughanchrysler.com/en/used-inventory/ram/2500/2020-ram-2500-id39297688",
+      "dealer_url": "https://www.vaughanchrysler.com/en/used-inventory/ram/2500/2020-ram-2500-id39297688?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T19:39:46",
+      "odometer_km": 126899,
+      "condition": "used"
+    },
+    {
       "name": "3500 Big Horn2022 Ram",
       "vin": "3C63R3DLXNG211712",
       "stock": "260265A",
@@ -393,17 +393,6 @@
       "dealer_url": "https://www.vaughanchrysler.com/en/used-inventory/ram/promaster-cargo-van/2025-ram-promaster-cargo-van-id39102450?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T16:12:37",
       "odometer_km": 1800,
-      "condition": "used"
-    },
-    {
-      "name": "RAM 2500 Crew Cab 4x4 Power Wagon (149 WB 6'4 Box)2020 Ram",
-      "vin": "3C6TR5EJ6LG227802",
-      "stock": "P5170",
-      "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/a061d5c68d1a.html",
-      "source_url": "https://www.vaughanchrysler.com/en/used-inventory/ram/ram-2500-crew-cab-4x4/2020-ram-ram-2500-crew-cab-4x4-id39297688",
-      "dealer_url": "https://www.vaughanchrysler.com/en/used-inventory/ram/ram-2500-crew-cab-4x4/2020-ram-ram-2500-crew-cab-4x4-id39297688?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T16:12:50",
-      "odometer_km": 126899,
       "condition": "used"
     },
     {
