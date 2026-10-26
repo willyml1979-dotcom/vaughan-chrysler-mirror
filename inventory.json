@@ -1,6 +1,6 @@
 {
   "dealership": "Vaughan Chrysler",
-  "generated_at": "2026-10-25T21:45:35",
+  "generated_at": "2026-10-26T06:22:16",
   "vehicle_count": 272,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -320,7 +320,7 @@
       "vin": "2C4RC1ZG4VR628984",
       "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/new/47a449071c20.html",
       "condition": "new",
-      "price": 51008.0,
+      "price": 51017.0,
       "price_currency": "CAD"
     },
     {
@@ -464,7 +464,7 @@
       "vin": "1C4RDJDGXTC248218",
       "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/new/de2a8c5f9c7d.html",
       "condition": "new",
-      "price": 59593.0,
+      "price": 59602.0,
       "price_currency": "CAD"
     },
     {
@@ -696,7 +696,7 @@
       "vin": "3C4PJMB20TT262366",
       "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/new/a2614045c132.html",
       "condition": "new",
-      "price": 53393.0,
+      "price": 53402.0,
       "price_currency": "CAD"
     },
     {
@@ -704,7 +704,7 @@
       "vin": "3C4PJMB2XTT217256",
       "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/new/edaa90aa7617.html",
       "condition": "new",
-      "price": 45403.0,
+      "price": 45412.0,
       "price_currency": "CAD"
     },
     {
@@ -712,7 +712,7 @@
       "vin": "3C4PJMB2XTT260706",
       "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/new/3a81ef6d7bc7.html",
       "condition": "new",
-      "price": 45198.0,
+      "price": 45207.0,
       "price_currency": "CAD"
     },
     {
@@ -720,7 +720,7 @@
       "vin": "3C4PJMB25TT229654",
       "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/new/d4534c241f7e.html",
       "condition": "new",
-      "price": 45398.0,
+      "price": 45407.0,
       "price_currency": "CAD"
     },
     {
@@ -736,7 +736,7 @@
       "vin": "3C4NJDBN1TT155053",
       "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/new/7357238d937c.html",
       "condition": "new",
-      "price": 37898.0,
+      "price": 37907.0,
       "price_currency": "CAD"
     },
     {
@@ -744,7 +744,7 @@
       "vin": "3C4NJDBNXTT155262",
       "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/new/cc3d6e40ed0b.html",
       "condition": "new",
-      "price": 38198.0,
+      "price": 38207.0,
       "price_currency": "CAD"
     },
     {
@@ -752,7 +752,7 @@
       "vin": "3C4NJDBN9TT155267",
       "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/new/cd6bff137264.html",
       "condition": "new",
-      "price": 38198.0,
+      "price": 38207.0,
       "price_currency": "CAD"
     },
     {
@@ -760,7 +760,7 @@
       "vin": "3C4NJDBN5TT154827",
       "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/new/cb9415d64e83.html",
       "condition": "new",
-      "price": 38198.0,
+      "price": 38207.0,
       "price_currency": "CAD"
     },
     {
@@ -768,7 +768,7 @@
       "vin": "3C4NJDBN6TT155100",
       "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/new/9f4549bc9c30.html",
       "condition": "new",
-      "price": 38198.0,
+      "price": 38207.0,
       "price_currency": "CAD"
     },
     {
@@ -784,7 +784,7 @@
       "vin": "3C4NJDDN4TT208857",
       "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/new/678b8e6e77be.html",
       "condition": "new",
-      "price": 45193.0,
+      "price": 45202.0,
       "price_currency": "CAD"
     },
     {
@@ -792,7 +792,7 @@
       "vin": "3C4NJDDN0TT208855",
       "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/new/7d50dd6e8d9f.html",
       "condition": "new",
-      "price": 44998.0,
+      "price": 45007.0,
       "price_currency": "CAD"
     },
     {
@@ -800,7 +800,7 @@
       "vin": "3C4NJDBN2TT208858",
       "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/new/1f11d9fb9fdc.html",
       "condition": "new",
-      "price": 43588.0,
+      "price": 43597.0,
       "price_currency": "CAD"
     },
     {
@@ -808,7 +808,7 @@
       "vin": "3C4NJDBN0TT208860",
       "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/new/9e2da4e5d84c.html",
       "condition": "new",
-      "price": 44083.0,
+      "price": 44092.0,
       "price_currency": "CAD"
     },
     {
