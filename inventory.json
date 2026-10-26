@@ -1,6 +1,6 @@
 {
   "dealership": "Vaughan Chrysler",
-  "generated_at": "2026-10-26T06:22:16",
+  "generated_at": "2026-10-26T06:35:18",
   "vehicle_count": 272,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -10,7 +10,7 @@
       "vin": "3GYFNAEYXBS578774",
       "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/25922e0c142e.html",
       "condition": "used",
-      "price": 7888.0,
+      "price": 7699.0,
       "price_currency": "CAD"
     },
     {
