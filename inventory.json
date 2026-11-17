@@ -1,7 +1,7 @@
 {
   "dealership": "Vaughan Chrysler",
-  "generated_at": "2026-11-17T04:52:57",
-  "vehicle_count": 269,
+  "generated_at": "2026-11-17T05:10:25",
+  "vehicle_count": 270,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -32,16 +32,20 @@
       "condition": "used"
     },
     {
-      "name": "Grand Caravan CVP SE2016 Dodge",
-      "vin": "2C4RDGBG1GR217653",
+      "name": "Pre-Owned Inventoryat Vaughan Chrysler",
+      "vin": "3C4NJDCN6TT161607",
       "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/664757f1716b.html",
-      "condition": "used"
+      "condition": "used",
+      "price": 32870.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "F150 Supercrew XLT2022 Ford",
-      "vin": "1FTEW1EPXNFA33592",
+      "name": "Pre-Owned Inventoryat Vaughan Chrysler",
+      "vin": "3C4NJDCN6TT161607",
       "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/9a7d2bc374cb.html",
-      "condition": "used"
+      "condition": "used",
+      "price": 32870.0,
+      "price_currency": "CAD"
     },
     {
       "name": "Ranger Lariat2020 Ford",
@@ -128,10 +132,12 @@
       "condition": "used"
     },
     {
-      "name": "Wrangler Rubicon2023 Jeep",
-      "vin": "1C4HJXCN1PW624610",
+      "name": "Pre-Owned Inventoryat Vaughan Chrysler",
+      "vin": "3C4NJDCN6TT161607",
       "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/dcd7f6fb96d2.html",
-      "condition": "used"
+      "condition": "used",
+      "price": 32870.0,
+      "price_currency": "CAD"
     },
     {
       "name": "Wrangler Sahara 4 Door 4x42024 Jeep",
@@ -194,21 +200,27 @@
       "condition": "used"
     },
     {
-      "name": "Wrangler Sahara 4 Door 4x42026 Jeep",
+      "name": "Wrangler Sahara2026 Jeep",
       "vin": "1C4PJXEN8TW157768",
       "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/c1e46cf20e67.html",
       "condition": "used"
     },
     {
-      "name": "Wrangler Sahara 4 Door 4x42026 Jeep",
+      "name": "Wrangler Sahara2026 Jeep",
       "vin": "1C4PJXEN0TW157652",
       "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/c745e8ded27a.html",
       "condition": "used"
     },
     {
-      "name": "Wrangler Sahara 4 Door 4x42026 Jeep",
+      "name": "Wrangler Sahara2026 Jeep",
       "vin": "1C4PJXEN4TW178729",
       "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/48d187d4e3fb.html",
+      "condition": "used"
+    },
+    {
+      "name": "Wrangler Sahara2026 Jeep",
+      "vin": "1C4PJXEN8TW157592",
+      "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/af9fb7501157.html",
       "condition": "used"
     },
     {
@@ -224,10 +236,12 @@
       "condition": "used"
     },
     {
-      "name": "GLS450 AWD2019 Mercedes-Benz",
-      "vin": "4JGDF6EE8KB219623",
+      "name": "Pre-Owned Inventoryat Vaughan Chrysler",
+      "vin": "3C4NJDCN6TT161607",
       "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/236431edb174.html",
-      "condition": "used"
+      "condition": "used",
+      "price": 32870.0,
+      "price_currency": "CAD"
     },
     {
       "name": "1500 TRX Havoc Edition2023 Ram",
@@ -254,7 +268,7 @@
       "condition": "used"
     },
     {
-      "name": "1500 TRX 4x4 Crew Cab 5'7 Box2024 Ram",
+      "name": "1500 TRX2024 Ram",
       "vin": "1C6SRFU92RN146482",
       "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/79a272a49d32.html",
       "condition": "used"
@@ -278,10 +292,12 @@
       "condition": "used"
     },
     {
-      "name": "1500 Tradesman Warlock2026 Ram",
-      "vin": "1C6SRFGP4TN195801",
+      "name": "Pre-Owned Inventoryat Vaughan Chrysler",
+      "vin": "3C4NJDCN6TT161607",
       "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/33271884ad2f.html",
-      "condition": "used"
+      "condition": "used",
+      "price": 32870.0,
+      "price_currency": "CAD"
     },
     {
       "name": "3500 Big Horn2022 Ram",
@@ -296,7 +312,7 @@
       "condition": "used"
     },
     {
-      "name": "Tundra 4X4 CrewMax SR2023 Toyota",
+      "name": "Tundra SR52023 Toyota",
       "vin": "5TFLA5DB1PX094894",
       "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/25a347aefb44.html",
       "condition": "used"
