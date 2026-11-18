@@ -1,6 +1,6 @@
 {
   "dealership": "Vaughan Chrysler",
-  "generated_at": "2026-11-17T22:57:41",
+  "generated_at": "2026-11-18T08:17:50",
   "vehicle_count": 273,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -734,7 +734,7 @@
       "vin": "3C4PJMB2XTT229598",
       "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/new/6140d8c3f47c.html",
       "condition": "new",
-      "price": 45398.0,
+      "price": 45407.0,
       "price_currency": "CAD"
     },
     {
@@ -1069,21 +1069,25 @@
       "name": "Grand Cherokee LIMITED2026 Jeep",
       "vin": "1C4RJHARXTC319554",
       "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/new/1a851aa2058b.html",
-      "condition": "new"
+      "condition": "new",
+      "price": 65007.0,
+      "price_currency": "CAD"
     },
     {
       "name": "Grand Cherokee LIMITED2026 Jeep",
       "vin": "1C4RJHAR8TC318581",
       "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/new/c68af001de1a.html",
       "condition": "new",
-      "price": 64998.0,
+      "price": 65007.0,
       "price_currency": "CAD"
     },
     {
       "name": "Grand Cherokee LIMITED2026 Jeep",
       "vin": "1C4RJHARXTC284661",
       "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/new/b0fa5ba2158d.html",
-      "condition": "new"
+      "condition": "new",
+      "price": 67102.0,
+      "price_currency": "CAD"
     },
     {
       "name": "Grand Cherokee SUMMIT2026 Jeep",
@@ -1105,20 +1109,24 @@
       "name": "Grand Wagoneer OBSIDIAN2026 Jeep",
       "vin": "1C4SJVEP7TS180871",
       "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/new/27e24ffdcc3c.html",
-      "condition": "new"
+      "condition": "new",
+      "price": 121998.0,
+      "price_currency": "CAD"
     },
     {
       "name": "Recon MOAB2026 Jeep",
       "vin": "3C4RJAAK4TT275890",
       "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/new/4eea4db34704.html",
-      "condition": "new"
+      "condition": "new",
+      "price": 91297.0,
+      "price_currency": "CAD"
     },
     {
       "name": "Recon MOAB2026 Jeep",
       "vin": "3C4RJAAKXTT275893",
       "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/new/0944a42754c4.html",
       "condition": "new",
-      "price": 95283.0,
+      "price": 95292.0,
       "price_currency": "CAD"
     },
     {
@@ -1126,7 +1134,7 @@
       "vin": "1C4PJXFG3TW271046",
       "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/new/3cd14d0f8b72.html",
       "condition": "new",
-      "price": 70868.0,
+      "price": 68877.0,
       "price_currency": "CAD"
     },
     {
@@ -1134,7 +1142,7 @@
       "vin": "1C4RJXSJ2TW327827",
       "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/new/408710add633.html",
       "condition": "new",
-      "price": 105925.0,
+      "price": 105936.0,
       "price_currency": "CAD"
     },
     {
@@ -1142,7 +1150,7 @@
       "vin": "1C4RJXSJ0TW327826",
       "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/new/6cda1fbea917.html",
       "condition": "new",
-      "price": 105925.0,
+      "price": 105936.0,
       "price_currency": "CAD"
     },
     {
@@ -1150,7 +1158,7 @@
       "vin": "1C4RJXSJ3TW342739",
       "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/new/7cac5b4c8afd.html",
       "condition": "new",
-      "price": 100951.0,
+      "price": 100962.0,
       "price_currency": "CAD"
     },
     {
@@ -1221,14 +1229,16 @@
       "name": "1500 SPORT2026 Ram",
       "vin": "3C6SRFVPXT4172410",
       "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/new/dd9dc8ed8b9b.html",
-      "condition": "new"
+      "condition": "new",
+      "price": 70472.0,
+      "price_currency": "CAD"
     },
     {
       "name": "1500 SPORT2026 Ram",
       "vin": "3C6SRFVP7T4172459",
       "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/new/44d86b0fed5e.html",
       "condition": "new",
-      "price": 68073.0,
+      "price": 68082.0,
       "price_currency": "CAD"
     },
     {
@@ -1236,7 +1246,7 @@
       "vin": "3C6SRFVP1T4172389",
       "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/new/33848c548f7b.html",
       "condition": "new",
-      "price": 69843.0,
+      "price": 69852.0,
       "price_currency": "CAD"
     },
     {
@@ -1244,7 +1254,7 @@
       "vin": "3C6SRFVP8T4172390",
       "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/new/6ba3123ed298.html",
       "condition": "new",
-      "price": 69843.0,
+      "price": 69852.0,
       "price_currency": "CAD"
     },
     {
