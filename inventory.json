@@ -1,6 +1,6 @@
 {
   "dealership": "Vaughan Chrysler",
-  "generated_at": "2026-11-18T08:17:50",
+  "generated_at": "2026-11-18T08:22:48",
   "vehicle_count": 273,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -18,7 +18,7 @@
       "condition": "used"
     },
     {
-      "name": "Durango GT Hemi V8 Plus AWD2026 Dodge",
+      "name": "Durango GT Plus AWD2026 Dodge",
       "vin": "1C4SDJCT0TC166465",
       "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/bdfdec07c950.html",
       "condition": "used"
@@ -84,37 +84,37 @@
       "condition": "used"
     },
     {
-      "name": "Compass Limited 4x42026 Jeep",
+      "name": "Compass Limited2026 Jeep",
       "vin": "3C4NJDCN6TT161607",
       "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/f56f455e5057.html",
       "condition": "used"
     },
     {
-      "name": "Compass Limited 4x42026 Jeep",
+      "name": "Compass Limited2026 Jeep",
       "vin": "3C4NJDCN5TT170489",
       "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/4dc86d682db4.html",
       "condition": "used"
     },
     {
-      "name": "Compass Limited 4x42026 Jeep",
+      "name": "Compass Limited2026 Jeep",
       "vin": "3C4NJDCN6TT161557",
       "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/eb18b0834c15.html",
       "condition": "used"
     },
     {
-      "name": "Compass Limited 4x42026 Jeep",
+      "name": "Compass Limited2026 Jeep",
       "vin": "3C4NJDCN6TT156729",
       "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/8d3dc7406635.html",
       "condition": "used"
     },
     {
-      "name": "Compass Limited 4x42026 Jeep",
+      "name": "Compass Limited2026 Jeep",
       "vin": "3C4NJDCN6TT248004",
       "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/572853f0d785.html",
       "condition": "used"
     },
     {
-      "name": "Compass Limited 4x42026 Jeep",
+      "name": "Compass Limited2026 Jeep",
       "vin": "3C4NJDCN5TT170413",
       "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/050f5a838279.html",
       "condition": "used"
@@ -186,19 +186,19 @@
       "condition": "used"
     },
     {
-      "name": "Wrangler Sahara 4 Door 4x42026 Jeep",
+      "name": "Wrangler Sahara2026 Jeep",
       "vin": "1C4PJXEN9TW157598",
       "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/26ef9e91c9e6.html",
       "condition": "used"
     },
     {
-      "name": "Wrangler Sahara 4 Door 4x42026 Jeep",
+      "name": "Wrangler Sahara2026 Jeep",
       "vin": "1C4PJXEN3TW157709",
       "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/2585751f467c.html",
       "condition": "used"
     },
     {
-      "name": "Wrangler Sahara 4 Door 4x42026 Jeep",
+      "name": "Wrangler Sahara2026 Jeep",
       "vin": "1C4PJXENXTW297515",
       "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/94ee814bab77.html",
       "condition": "used"
