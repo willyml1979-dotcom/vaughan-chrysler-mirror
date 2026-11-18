@@ -7,7 +7,7 @@ Vaughan Chrysler is a Chrysler dealership in ON. This site is an AI-readable mir
 - You need the link to a specific vehicle page or to the dealership's official website.
 
 ## What is here
-- Vehicle pages: https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/ and https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/new/ (about 270 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
+- Vehicle pages: https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/ and https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/new/ (about 273 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
 - Index of all vehicles: https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/inventory.json (VIN, year, make, model, price and link).
 - Sitemap: https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/sitemap.xml
 - Summary: https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/llms.txt

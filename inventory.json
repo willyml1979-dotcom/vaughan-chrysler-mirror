@@ -1,17 +1,15 @@
 {
   "dealership": "Vaughan Chrysler",
-  "generated_at": "2026-11-17T22:47:23",
-  "vehicle_count": 270,
+  "generated_at": "2026-11-17T22:57:41",
+  "vehicle_count": 273,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
     {
-      "name": "SRX Luxury Collection2011 Cadillac",
-      "vin": "3GYFNAEYXBS578774",
-      "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/25922e0c142e.html",
-      "condition": "used",
-      "price": 7699.0,
-      "price_currency": "CAD"
+      "name": "MDX AWD2016 Acura",
+      "vin": "5FRYD4H48GB508331",
+      "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/7d9c0e05a13a.html",
+      "condition": "used"
     },
     {
       "name": "Equinox Premier AWD2020 Chevrolet",
@@ -21,36 +19,32 @@
     },
     {
       "name": "Durango GT Hemi V8 Plus AWD2026 Dodge",
-      "vin": "1C4SDJCT3TC166539",
-      "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/954d0ff14d55.html",
-      "condition": "used"
-    },
-    {
-      "name": "Durango GT Hemi V8 Plus AWD2026 Dodge",
       "vin": "1C4SDJCT0TC166465",
       "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/bdfdec07c950.html",
       "condition": "used"
     },
     {
-      "name": "Pre-Owned Inventoryat Vaughan Chrysler",
-      "vin": "3C4NJDCN6TT161607",
-      "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/664757f1716b.html",
-      "condition": "used",
-      "price": 32870.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Pre-Owned Inventoryat Vaughan Chrysler",
-      "vin": "3C4NJDCN6TT161607",
-      "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/9a7d2bc374cb.html",
-      "condition": "used",
-      "price": 32870.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "Ranger Lariat2020 Ford",
       "vin": "1FTER4FH2LLA89296",
       "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/0d9a5460554a.html",
+      "condition": "used"
+    },
+    {
+      "name": "Savana 35002019 GMC",
+      "vin": "1GD07RFP6K1212141",
+      "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/d19bda7c196b.html",
+      "condition": "used"
+    },
+    {
+      "name": "Odyssey EXL Res2020 Honda",
+      "vin": "5FNRL6H61LB501723",
+      "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/3c29ef7288f5.html",
+      "condition": "used"
+    },
+    {
+      "name": "Tucson SEL AWD2025 Hyundai",
+      "vin": "3KMJBCDE8SE024432",
+      "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/899c2fd7280e.html",
       "condition": "used"
     },
     {
@@ -66,9 +60,27 @@
       "condition": "used"
     },
     {
+      "name": "Cherokee North2022 Jeep",
+      "vin": "1C4PJMCX0ND507010",
+      "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/f0831cf91b7e.html",
+      "condition": "used"
+    },
+    {
       "name": "Cherokee Laredo2026 Jeep",
       "vin": "3C4PJMB22TT217266",
       "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/b5f1425623e8.html",
+      "condition": "used"
+    },
+    {
+      "name": "Compass Limited2022 Jeep",
+      "vin": "3C4NJDCB1NT211340",
+      "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/ccc0a60a67c6.html",
+      "condition": "used"
+    },
+    {
+      "name": "Compass North2022 Jeep",
+      "vin": "3C4NJDBBXNT103719",
+      "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/fa342bb3fd7e.html",
       "condition": "used"
     },
     {
@@ -114,63 +126,61 @@
       "condition": "used"
     },
     {
-      "name": "Grand Cherokee 4XE2022 Jeep",
-      "vin": "1C4RJYB66N8746398",
-      "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/05410cc06aec.html",
-      "condition": "used"
-    },
-    {
       "name": "Grand Cherokee L Overland2022 Jeep",
       "vin": "1C4RJKDG3N8610166",
       "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/d84712713334.html",
       "condition": "used"
     },
     {
-      "name": "Wrangler JL Unlimited Rubicon2020 Jeep",
-      "vin": "1C4HJXFG0LW320496",
-      "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/62b5c371f02b.html",
+      "name": "Wrangler Unlimited Sport2022 Jeep",
+      "vin": "1C4HJXDG1NW233485",
+      "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/d6b73b6c58f2.html",
       "condition": "used"
     },
     {
-      "name": "Pre-Owned Inventoryat Vaughan Chrysler",
-      "vin": "3C4NJDCN6TT161607",
-      "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/dcd7f6fb96d2.html",
-      "condition": "used",
-      "price": 32870.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Wrangler Sahara 4 Door 4x42024 Jeep",
-      "vin": "1C4PJXEN0RW170491",
-      "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/a04c5365c511.html",
+      "name": "Wrangler Unlimited Rubicon2022 Jeep",
+      "vin": "1C4HJXFG8NW268859",
+      "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/dd027c0d7072.html",
       "condition": "used"
     },
     {
-      "name": "Wrangler Sahara 4 Door 4x42026 Jeep",
+      "name": "Wrangler Sahara2021 Jeep",
+      "vin": "1C4HJXEG3MW865157",
+      "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/6947477d2415.html",
+      "condition": "used"
+    },
+    {
+      "name": "Wrangler Sahara2021 Jeep",
+      "vin": "1C4HJXEG6MW685297",
+      "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/0ea360bbc950.html",
+      "condition": "used"
+    },
+    {
+      "name": "Wrangler Sahara2026 Jeep",
       "vin": "1C4PJXEN6TW157655",
       "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/635ebdef1601.html",
       "condition": "used"
     },
     {
-      "name": "Wrangler Sahara 4 Door 4x42026 Jeep",
+      "name": "Wrangler Sahara2026 Jeep",
       "vin": "1C4PJXEN4TW157590",
       "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/6ef8651a64dd.html",
       "condition": "used"
     },
     {
-      "name": "Wrangler Sahara 4 Door 4x42026 Jeep",
+      "name": "Wrangler Sahara2026 Jeep",
       "vin": "1C4PJXEN5TW157680",
       "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/dabb77381794.html",
       "condition": "used"
     },
     {
-      "name": "Wrangler Sahara 4 Door 4x42026 Jeep",
+      "name": "Wrangler Sahara2026 Jeep",
       "vin": "1C4PJXEN4TW157556",
       "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/510bd3f00215.html",
       "condition": "used"
     },
     {
-      "name": "Wrangler Sahara 4 Door 4x42026 Jeep",
+      "name": "Wrangler Sahara2026 Jeep",
       "vin": "1C4PJXEN8TW163523",
       "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/607e645d9184.html",
       "condition": "used"
@@ -191,12 +201,6 @@
       "name": "Wrangler Sahara 4 Door 4x42026 Jeep",
       "vin": "1C4PJXENXTW297515",
       "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/94ee814bab77.html",
-      "condition": "used"
-    },
-    {
-      "name": "Wrangler Sahara 4 Door 4x42026 Jeep",
-      "vin": "1C4PJXEN5TW157601",
-      "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/f24ece9b7ccd.html",
       "condition": "used"
     },
     {
@@ -224,6 +228,12 @@
       "condition": "used"
     },
     {
+      "name": "NX 3502024 Lexus",
+      "vin": "2T2GKCEZXRC016562",
+      "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/1f2db53c6a55.html",
+      "condition": "used"
+    },
+    {
       "name": "CX-5 AWD2024 Mazda",
       "vin": "JM3KFBCM1R0355362",
       "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/314fda5e6571.html",
@@ -236,29 +246,27 @@
       "condition": "used"
     },
     {
-      "name": "Pre-Owned Inventoryat Vaughan Chrysler",
-      "vin": "3C4NJDCN6TT161607",
-      "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/236431edb174.html",
-      "condition": "used",
-      "price": 32870.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "1500 TRX Havoc Edition2023 Ram",
-      "vin": "1C6SRFU97PN535325",
-      "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/fe76d67f3c71.html",
+      "name": "1500 LONGHORN2019 Ram",
+      "vin": "1C6SRFKT1KN868370",
+      "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/859db1fe9bbd.html",
       "condition": "used"
     },
     {
-      "name": "1500 Night Edition Quad Cab2019 Ram",
-      "vin": "1C6RR7FGXKS575246",
-      "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/7adcf6148ee7.html",
+      "name": "1500 Rebel2020 Ram",
+      "vin": "1C6SRFLT9LN188474",
+      "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/f67af94e1a14.html",
       "condition": "used"
     },
     {
-      "name": "1500 Rebel2022 Ram",
-      "vin": "1C6SRFLT4NN475191",
-      "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/e7d01474e9d2.html",
+      "name": "1500 Sport2021 Ram",
+      "vin": "1C6SRFVT7MN552292",
+      "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/d81363d34114.html",
+      "condition": "used"
+    },
+    {
+      "name": "1500 Limited2023 Ram",
+      "vin": "1C6SRFHT7PN554186",
+      "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/db420c62ad3c.html",
       "condition": "used"
     },
     {
@@ -286,20 +294,6 @@
       "condition": "used"
     },
     {
-      "name": "1500 Rebel2025 Ram",
-      "vin": "1C6SRFLP3SN767994",
-      "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/45dbf6c6cafa.html",
-      "condition": "used"
-    },
-    {
-      "name": "Pre-Owned Inventoryat Vaughan Chrysler",
-      "vin": "3C4NJDCN6TT161607",
-      "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/33271884ad2f.html",
-      "condition": "used",
-      "price": 32870.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "3500 Big Horn2022 Ram",
       "vin": "3C63R3DLXNG211712",
       "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/c7faf9145dd4.html",
@@ -312,15 +306,27 @@
       "condition": "used"
     },
     {
-      "name": "Tundra SR52023 Toyota",
-      "vin": "5TFLA5DB1PX094894",
-      "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/25a347aefb44.html",
+      "name": "ProMaster Cargo Van Tradesman 15002025 Ram",
+      "vin": "3C6LRVNG5SE500145",
+      "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/64a06c44e915.html",
+      "condition": "used"
+    },
+    {
+      "name": "RAV4 Hybrid XLE AWD2022 Toyota",
+      "vin": "2T3R1RFV8NC275972",
+      "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/ad41386a6847.html",
       "condition": "used"
     },
     {
       "name": "TUNDRA Limited HV2023 Toyota",
       "vin": "5TFJC5EC3PX004105",
       "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/d3e300dcaefd.html",
+      "condition": "used"
+    },
+    {
+      "name": "Tundra SR52023 Toyota",
+      "vin": "5TFLA5DB1PX094894",
+      "url": "https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/df2e7b663b04.html",
       "condition": "used"
     },
     {

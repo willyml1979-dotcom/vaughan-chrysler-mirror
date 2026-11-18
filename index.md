@@ -1,6 +1,6 @@
 # Vaughan Chrysler
 
-Chrysler dealership in ON. AI-readable inventory mirror, about 270 vehicles.
+Chrysler dealership in ON. AI-readable inventory mirror, about 273 vehicles.
 
 - Official website: https://www.vaughanchrysler.com
 - Used vehicles: https://willyml1979-dotcom.github.io/vaughan-chrysler-mirror/used/
